@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "Baksho",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I am baksho",
+        "I like rashem",
         "I like to play Minecraft!"
       ]
     },
