@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BakshoSMP.aternos.me:21540",
+    "ip": "boxfish.aternos.host:21540",
     "port": 21540,
     "version": "",
     "try-creative": false
