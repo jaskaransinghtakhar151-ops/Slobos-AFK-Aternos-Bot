@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "BakshoSMP.aternos.me:21540",
+    "port": 21540,
     "version": "",
     "try-creative": false
   },
